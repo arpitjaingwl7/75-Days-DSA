@@ -1,0 +1,11 @@
+
+Recursion -
+
+Why Recursion:
+Fundamental topic for all 
+the Advanced Data Structures.
+
+
+Recursion Definition- A funtion Calling another funtion which having
+same function definition and parameters
+
