@@ -25,4 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0874-backspace-string-compare) |
+## String
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0874-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
