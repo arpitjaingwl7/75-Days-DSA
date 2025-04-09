@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0874-backspace-string-compare) |
+| [0067-add-binary](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0874-backspace-string-compare) |
+| [0067-add-binary](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0067-add-binary) |
 ## Math
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [0070-climbing-stairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0070-climbing-stairs) |
+| [0067-add-binary](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [0070-climbing-stairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
