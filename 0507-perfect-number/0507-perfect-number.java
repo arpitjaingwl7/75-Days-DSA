@@ -6,7 +6,12 @@ class Solution {
                 sum+=i;
             }
         }
-        return sum==num;
-    }
 
+
+        if(num==sum){
+            return true;
+        }
+
+        return false;
+    }
 }
