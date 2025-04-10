@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [0070-climbing-stairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0070-climbing-stairs) |
 | [0067-add-binary](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0067-add-binary) |
+| [0507-perfect-number](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0507-perfect-number) |
 ## Dynamic Programming
 |  |
 | ------- |
