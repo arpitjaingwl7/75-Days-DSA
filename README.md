@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1013-fibonacci-number) |
+| [0024-swap-nodes-in-pairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0024-swap-nodes-in-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
