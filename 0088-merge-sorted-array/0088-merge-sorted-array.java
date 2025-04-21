@@ -13,13 +13,13 @@ class Solution {
            int n2=b>=0?nums2[b]:Integer.MIN_VALUE;
              
              if(n1>n2){
-                nums1[x]=nums1[a];
+                nums1[x]=n1;
                 a--;
                 x--;
 
              }
              else{
-                nums1[x]=nums2[b];
+                nums1[x]=n2;
                 b--;
                 x--;
              }
