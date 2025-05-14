@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0088-merge-sorted-array](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0088-merge-sorted-array) |
+| [2058-concatenation-of-array](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0874-backspace-string-compare) |
 | [0067-add-binary](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0067-add-binary) |
+| [2058-concatenation-of-array](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
