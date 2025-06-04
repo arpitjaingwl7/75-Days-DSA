@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0088-merge-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/2058-concatenation-of-array) |
 | [0027-remove-element](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0027-remove-element) |
+| [0200-number-of-islands](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -90,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0088-merge-sorted-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
