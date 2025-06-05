@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0733-flood-fill) |
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0733-flood-fill) |
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [0070-climbing-stairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -113,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0733-flood-fill) |
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
