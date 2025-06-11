@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0820-find-eventual-safe-states) |
+| [0207-course-schedule](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0733-flood-fill) |
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
 | [0820-find-eventual-safe-states](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0820-find-eventual-safe-states) |
+| [0207-course-schedule](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0207-course-schedule) |
 ## Union Find
 |  |
 | ------- |
@@ -123,8 +125,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0820-find-eventual-safe-states) |
+| [0207-course-schedule](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0207-course-schedule) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0820-find-eventual-safe-states) |
+| [0207-course-schedule](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
