@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0207-course-schedule](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0210-course-schedule-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
 | [0820-find-eventual-safe-states](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0207-course-schedule](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0210-course-schedule-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -126,9 +128,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0207-course-schedule](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0207-course-schedule](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
