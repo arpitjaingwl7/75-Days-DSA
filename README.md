@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0733-flood-fill) |
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
+| [1036-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0207-course-schedule](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0210-course-schedule-ii) |
+| [1036-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0733-flood-fill) |
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
+| [1036-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
