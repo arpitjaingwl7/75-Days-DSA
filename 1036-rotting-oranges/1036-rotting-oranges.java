@@ -1,72 +1,65 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
 
-
-  int n=grid.length;
-
-  int m= grid[0].length;
-  int max=0;
-
-
+int n=grid.length;
+int m=grid[0].length;
+int ans=0;
 
 Queue<Pair>q=new ArrayDeque<>();
-
-  int[][]vis=new int [m][n];
-
-  for(int i=0;i<n;i++){
+for(int i=0;i<n;i++){
     for(int j=0;j<m;j++){
-
         if(grid[i][j]==2){
-            q.add(new Pair(i,j,0));
+            Pair p=new Pair(i,j,0);
+            q.add(p);
         }
     }
-  }
-
-while(q.size()!=0){
- 
- Pair temp=q.remove();
-
- int []dx={-1,1,0,0};
- int[] dy={0,0,-1,1};
-
- for(int k=0;k<4;k++){
-    int r=temp.i+dx[k];
-    int c=temp.j+dy[k];
-
-    max=Math.max(max,temp.t);
-
-    if(r<n&& c<m&& r>=0&& c>=0&& grid[r][c]==1 ){
-
-        grid[r][c]=2;
-        q.add(new Pair(r,c,temp.t+1));
-
-
-    }
- }
-
 }
 
+int []dx={1,-1,0,0};
+int []dy={0,0,1,-1};
+
+while(q.size()!=0){
+    Pair temp=q.remove();
+    int x=temp.x;
+    int y=temp.y;
+    int t=temp.t;
+    ans=Math.max(ans,t);
+
+    for(int i=0;i<4;i++){
+        int r=x+dx[i];
+        int c=y+dy[i];
+
+        if(r>=0&&c>=0&&r<n&&c<m&&grid[r][c]==1){
+            grid[r][c]=2;
+            q.add(new Pair(r,c,t+1));
+        }
+    }
+}
 
 for(int i=0;i<n;i++){
     for(int j=0;j<m;j++){
         if(grid[i][j]==1){
-            return -1;
+           return -1;
         }
     }
-
-   
 }
- return max;
-     
+
+return ans;
+
+
     }
 }
 class Pair{
-    int i;
-    int j;
-    int t;
-    Pair(int a,int b,int c){
-        i=a;
-        j=b;
-        t=c;
-    }
+int x;
+int y;
+int t;
+
+   Pair(int a, int b,int c){
+    x=a;
+    y=b;
+    t=c;
+
+   }
+
+
 }
