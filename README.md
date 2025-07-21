@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1036-rotting-oranges) |
+| [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0210-course-schedule-ii) |
 | [1036-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1036-rotting-oranges) |
 | [0127-word-ladder](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0127-word-ladder) |
+| [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0207-course-schedule](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0210-course-schedule-ii) |
+| [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0200-number-of-islands) |
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
+| [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1036-rotting-oranges) |
+| [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 ## Graph
 |  |
 | ------- |
@@ -144,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0127-word-ladder) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
