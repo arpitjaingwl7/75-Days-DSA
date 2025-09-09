@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1036-rotting-oranges) |
 | [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 | [0721-accounts-merge](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0721-accounts-merge) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
