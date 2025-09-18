@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0067-add-binary) |
 | [0507-perfect-number](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0507-perfect-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1013-fibonacci-number) |
 | [0024-swap-nodes-in-pairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
