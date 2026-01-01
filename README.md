@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 | [0721-accounts-merge](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0721-accounts-merge) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0994-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 | [0721-accounts-merge](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0721-accounts-merge) |
 | [0547-number-of-provinces](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1036-rotting-oranges) |
 | [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0994-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
