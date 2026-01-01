@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0127-word-ladder) |
 | [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 | [0721-accounts-merge](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0721-accounts-merge) |
+| [0547-number-of-provinces](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0210-course-schedule-ii) |
 | [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 | [0721-accounts-merge](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0721-accounts-merge) |
+| [0547-number-of-provinces](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0130-surrounded-regions) |
 | [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
 | [0721-accounts-merge](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0721-accounts-merge) |
+| [0547-number-of-provinces](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0207-course-schedule](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
