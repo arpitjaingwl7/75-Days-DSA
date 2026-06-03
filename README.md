@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0721-accounts-merge) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0994-rotting-oranges](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0994-rotting-oranges) |
+| [1472-design-browser-history](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1472-design-browser-history) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0874-backspace-string-compare) |
+| [1472-design-browser-history](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1472-design-browser-history) |
 ## Simulation
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [1472-design-browser-history](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1472-design-browser-history) |
 ## Sorting
 |  |
 | ------- |
@@ -174,4 +177,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/0794-swim-in-rising-water) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/arpitjaingwl7/75-Days-DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
