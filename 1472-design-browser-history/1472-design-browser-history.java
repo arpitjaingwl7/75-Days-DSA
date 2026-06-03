@@ -1,41 +1,50 @@
-import java.util.Stack;
-
 class BrowserHistory {
-   
-     Stack<String> main=new Stack<>();;
     
-    Stack<String> helper=new Stack<>();;
+    // Define the Doubly Linked List Node structure
+    private class Node {
+        String url;
+        Node prev;
+        Node next;
+        
+        Node(String url) {
+            this.url = url;
+            this.prev = null;
+            this.next = null;
+        }
+    }
+
+    // Pointer to track the current page node
+    private Node curr;
 
     public BrowserHistory(String homepage) {
-      
-       
-        main.push(homepage);
+        // Initialize the history with the homepage node
+        curr = new Node(homepage);
     }
     
     public void visit(String url) {
-       
-        main.push(url);
-       
-        helper.clear();
+        Node newNode = new Node(url);
+        // Connect current node to the new node
+        curr.next = newNode;
+        newNode.prev = curr;
+        // Move the current pointer to the new page
+        curr = newNode;
     }
     
     public String back(int steps) {
-        
-        while (steps > 0 && main.size() > 1) {
-            helper.push(main.pop());
+        // Move back as long as there is a previous page and steps remaining
+        while (steps > 0 && curr.prev != null) {
+            curr = curr.prev;
             steps--;
         }
-       
-        return main.peek();
+        return curr.url;
     }
     
     public String forward(int steps) {
-       
-        while (steps > 0 && !helper.isEmpty()) {
-            main.push(helper.pop());
+        // Move forward as long as there is a next page and steps remaining
+        while (steps > 0 && curr.next != null) {
+            curr = curr.next;
             steps--;
         }
-       
-        return main.peek();
+        return curr.url;
     }
 }
